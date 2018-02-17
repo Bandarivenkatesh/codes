@@ -1,3 +1,5 @@
+
+//Venkatesh
 //gcc -D0R bitwise.c   if you want AND ==> -DAND  
 #include <stdio.h>
 
